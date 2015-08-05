@@ -1,0 +1,90 @@
+@CHARSET "UTF-8";
+*{
+	margin:0px;
+	padding:0px;
+}
+html
+{
+	font-family:@΢���ź� @����;
+	color:#9E9E9E;
+}
+a
+{
+    color:#D4D4D4;
+    text-decoration:none;
+    
+}
+.clear
+{
+    clear:left;
+}
+.input
+{
+    margin:30px 60px;
+    font-family:Comic Sans MS;
+    height:40px;
+}
+.input_area
+{
+    margin:30px 60px;
+    font-family:Comic Sans MS;
+ }
+ input
+{
+     font-size:larger;
+ }
+ label
+ {
+     font-size:20px;
+     font-family:Comic Sans MS;
+  }
+  .button
+{
+    padding: 5 20px;
+    color: #9E9E9E;
+    background: #E3E3E3;
+    border:none;
+    font-family:Comic Sans MS;
+    }
+ .button:hover
+ {
+     background:#757575;
+     padding: 5 20px;
+     color:White;
+     border:none;
+     }
+  .warnInfo
+  {
+     margin:30px 60px;
+     height:40px;
+     color:#F08080;
+     font-family:Comic Sans MS;
+ }
+ .remindInfo
+ {
+     font-size:smaller;
+     font-family:Comic Sans MS;
+ }
+ 
+/****login*****/
+div> .div_hover:hover{
+	cursor: pointer;
+}
+.user
+{
+     margin:50px 300px;
+     border-left-color:#9E9E9E;
+     border-left-style:solid;
+     border-left-width:thin;
+     
+ }
+ #register_wrapper
+ {
+     margin-bottom:230px;
+     }
+ #footer
+{
+    text-align:center;  
+    border:none;
+    font-family:Comic Sans MS;
+    }
